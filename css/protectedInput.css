@@ -1,0 +1,15 @@
+/* 
+    Document   : protectedInput
+    Created on : Aug 16, 2012, 4:41:48 PM
+    Author     : daniel
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.javascriptLink{
+    text-decoration: underline;
+}
+.javascriptLink:hover{
+    color: blue;
+    cursor: pointer;
+}
+
